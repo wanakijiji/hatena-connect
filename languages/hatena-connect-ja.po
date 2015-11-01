@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hatena Connect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-31 00:08+0000\n"
+"PO-Revision-Date: 2015-11-01 05:34+0000\n"
+"Last-Translator: aroundit\n"
+"Language-Team: aroundit\n"
+"Language: Japanese\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Loco-Target-Locale: ja_JP\n"
+"X-Loco-Project-Id: 11179\n"
+"X-Loco-Api-Version: 1.0.12"
+
+#. Author of the plugin/theme
+#: loco:563406c814d72514088b4567
+msgid "Hatena Connect Settings"
+msgstr "Hatena Connectの設定"
+
+#: loco:5634075814d725e07a8b4569
+msgid "Hatena ID"
+msgstr "はてなID"
+
+#: loco:5634087514d7254e058b4569
+msgid "Add your Hatena ID."
+msgstr "はてなIDを設定してください。"
+
+#: loco:563408c614d725807c8b456a
+msgid "Settings saved."
+msgstr "はてなIDを更新しました。"
+
+#: loco:5634197714d72536058b4571
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: loco:56341b4a14d7257c0c8b456e
+msgid "Dismiss this notice."
+msgstr "この通知を非表示にする"
+
+#: loco:5634c1c914d72539548b456c
+msgid "alphanumeric, hyphen, underscore"
+msgstr "半角英数字, ハイフン, アンダースコア"
+
+#: loco:56354c3014d725e64e8b4567
+msgid "Remove #more anchor"
+msgstr "#moreアンカーの削除"
+
+#: loco:56354fae14d72514558b4567
+msgid ""
+"Remove more anchor from \"Read More\" links to prevent bookmarking duplicate "
+"content"
+msgstr "「続きを読む」リンクから「#more-」アンカーを取り除き、ブックマークURLが分散するのを防ぐ"
+
+#: loco:56358d2314d725055e8b456f
+msgid ""
+"Hatena Connect is a plugin to connect Hatena Bookmark with your wordpress "
+"blog."
+msgstr ""
+"Hatena Connectは、はてなブックマークとWordpressブログを結びつけるプラグインです。<br>はてなIDを設定すると、"
+"このWordpressブログがブックマークされた際に以下のサービスに通知が届きます。"
+
+#: loco:56359a0514d725b26a8b4567
+msgid "\"Notifications\" on Hatena App"
+msgstr "はてなアプリの「通知」"
+
+#: loco:56359a8414d72558618b4567
+msgid "\"Hatena Notify\" Chrome Extension"
+msgstr "Chrome拡張機能の「はてなのお知らせ」"
+
+#: loco:56359af414d725076e8b4568
+msgid "\"Notifications for you\" on Hatena Website"
+msgstr "はてなサイトの「あなたへのお知らせ」"
