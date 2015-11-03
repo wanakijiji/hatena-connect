@@ -1,7 +1,7 @@
 # Hatena Connect
 Contributors: wanakijiji  
-Tags: hatena, hatena notify  
-Plugin URI: https://github.com/aroundit/  
+Tags: hatena, bookmark, notifications  
+Plugin URI: https://github.com/wanakijiji/hatena-connect  
 Requires at least: 4.2  
 Tested up to: 4.3  
 Stable tag: 1.1.0  
@@ -24,6 +24,10 @@ You'll get notifications on the following service when someone bookmarks your wo
 1. Upload the `hatena-connect` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the Plugins menu in WordPress.
 3. Configure plugin options through settings page `settings -> Hatena Connect`.
+
+# Screenshots
+
+1. Settings page
 
 # Changelog
 ## 1.1.0
