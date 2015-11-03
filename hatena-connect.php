@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Hatena Connect
-Plugin URI: GitHub URL
+Plugin URI: https://github.com/wanakijiji/hatena-connect
 Description: Connect Hatena with your wordpress blog to get notifications on Hatena notify.
 Version: 1.1.0
 Author: wanakijiji
